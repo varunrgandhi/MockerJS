@@ -37,3 +37,5 @@ mockMethod.called // = true
 
 mockMethod.restore(); // Will clear all flags and reset original behaviors.
 ```
+
+QUnit tests for the utility: http://htmlpreview.github.io/?https://github.com/varunrgandhi/MockerJS/blob/master/test/testRunner.html
